@@ -15,4 +15,7 @@ This image is hosted publicly on GitHub — it should render properly in both Gi
 
 ![Hashicorp Logo](https://github.com/mahimasharu2208/markdown-formatting/blob/main/image.png)
 
+### Images
+
+![Hashicorp Logo 1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj7_iFjOdLi393q4mPTEp-3NN9snBE5gsLvw&s)
 
